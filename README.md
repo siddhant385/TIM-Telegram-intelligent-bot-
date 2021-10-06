@@ -10,6 +10,7 @@ Feel free to modify the code for your work**
 
 * Bot Name - TIM (Telegram Intelligent Manager bot)
 * Bot Link - http://t.me/tele385bot or click [here](http://t.me/tele385bot)
+* Search name of bot in Telegram - @tele385bot
 * Bot features -
   * Capable of sending daliy news
   * Sends new motivational thought

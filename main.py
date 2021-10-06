@@ -6,7 +6,7 @@ import time
 import random
 import wikipedia
 
-token = '2088282456:AAGoFCw13uWt2mXvp8rWXHrxgZTxAR5NSA8'
+token = ''
 chat_id = ''
 known_ids = []
 

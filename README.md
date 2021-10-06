@@ -4,7 +4,7 @@
 Feel free to modify the code for your work**
 
 ---------------------------------------------------------------
-## **For Non developer use please use the bot on Telegram.
+## For Non developer use please use the bot on Telegram.
 
 ![TIM](https://herobot.app/wp-content/uploads/2020/10/AI-bot-1.jpg)
 
@@ -23,12 +23,12 @@ Pro features -
   * Can download youtube videos
   * all functions of open source project
 ----------------------------------------------------------------------------
-# **For pro version mail to techforyou385@gmail.com with TIM mk2 as subject.**
-# **If you liked my work then please star this project.
-# **For issues kindly go to issues tab**
-# **And New Features will come soon**
+###### For pro version mail to techforyou385@gmail.com with TIM mk2 as subject.
+###### If you liked my work then please star this project.
+###### For issues kindly go to issues tab
+###### And New Features will come soon
 ----------------------------------------------------
 
-Special Thanks to [CodewithHarry](https://www.youtube.com/c/CodeWithHarry) for helping me to learn python
+#### Special Thanks to [CodewithHarry](https://www.youtube.com/c/CodeWithHarry) for helping me to learn python
 
-Made with ❤️ and proud in India
+## Made with ❤️ and proud in India

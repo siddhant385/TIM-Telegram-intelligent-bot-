@@ -9,7 +9,7 @@ Feel free to modify the code for your work**
 ![TIM](https://herobot.app/wp-content/uploads/2020/10/AI-bot-1.jpg)
 
 * Bot Name - TIM (Telegram Intelligent Manager bot)
-* Bot Link - http://t.me/tele385bot or click [here](http://t.me/tele385bot)
+* Bot Link - http://t.me/TECH385BOT or click [here](http://t.me/TECH385BOT)
 * Search name of bot in Telegram - @TECH385BOT
 * Bot features -
   * Capable of sending daliy news

@@ -2,10 +2,9 @@
   <img src="https://en.bloggif.com/tmp/c45ce61209bc26c9dc8fdb2dccb2234a/text.gif?1636785462"></img>
 </p>
 
-<h3 align='center'> This is a bot made to help various people and made as hooby.
-Feel free to modify the code for your work
- </h3>
-
+<p align="center">
+  <img src="https://en.bloggif.com/tmp/a36e19f044e8b4910a6e06b2315ad9aa/text.gif?1636809622"></img>
+</p>
 
 
 ---------------------------------------------------------------

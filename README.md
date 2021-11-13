@@ -1,10 +1,16 @@
-# TIM-Telegram-intelligent-bot-
+<p align="center">
+  <img src="https://en.bloggif.com/tmp/c45ce61209bc26c9dc8fdb2dccb2234a/text.gif?1636785462"></img>
+</p>
 
-**This is a bot made to help various people and made as hooby.
-Feel free to modify the code for your work**
+<h3 align='center'> This is a bot made to help various people and made as hooby.
+Feel free to modify the code for your work
+ </h3>
+
+
 
 ---------------------------------------------------------------
-## For Non developer use please use the bot on Telegram.
+<h2 align='center'> For Non developer use please use the bot on Telegram.
+ </h2>
 
 ![TIM](https://herobot.app/wp-content/uploads/2020/10/AI-bot-1.jpg)
 

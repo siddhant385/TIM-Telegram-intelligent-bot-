@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://en.bloggif.com/tmp/c3f7d50fc8613ccef198e46416ae1139/text.gif?1636809971"></img>
+  <img src="text.gif"></img>
 </p>
 
 <p align="center">

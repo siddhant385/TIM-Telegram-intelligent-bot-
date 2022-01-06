@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="text.gif"></img>
+  <img src="text(1).gif"></img>
 </p>
 
 <p align="center">

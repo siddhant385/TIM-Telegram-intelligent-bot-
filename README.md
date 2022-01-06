@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="subtitle.gif"></img>
+  <img src="gifs/subtitle.gif"></img>
 </p>
 
 

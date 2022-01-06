@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://en.bloggif.com/tmp/a36e19f044e8b4910a6e06b2315ad9aa/text.gif?1636809622"></img>
+  <img src="subtitle.gif"></img>
 </p>
 
 
